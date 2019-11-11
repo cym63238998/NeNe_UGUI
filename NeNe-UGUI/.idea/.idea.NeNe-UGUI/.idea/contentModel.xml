@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\63238\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\63238\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_NeNe-UGUI.-1873179280.00" t="ExcludeRecursive" />
+    <e p="D:\unityProject\NeNe-UGUI" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AsyncAwaitUtil" t="Include">
+          <e p="Source" t="Include">
+            <e p="Awaiters.cs" t="Include" />
+            <e p="AwaitExtensions.cs" t="Include" />
+            <e p="IEnumeratorAwaitExtensions.cs" t="Include" />
+            <e p="Internal" t="Include">
+              <e p="AsyncCoroutineRunner.cs" t="Include" />
+              <e p="SyncContextUtil.cs" t="Include" />
+            </e>
+            <e p="TaskExtensions.cs" t="Include" />
+            <e p="WaitForBackgroundThread.cs" t="Include" />
+            <e p="WaitForUpdate.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Demigiant" t="Include">
+          <e p="DemiLib" t="Include">
+            <e p="Core" t="Include">
+              <e p="DemiLib.xml" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="DemiEditor.xml" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="DOTween" t="Include">
+            <e p="DOTween43.xml" t="Include" />
+            <e p="DOTween46.xml" t="Include" />
+            <e p="DOTween50.xml" t="Include" />
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="DOTweenPro" t="Include">
+            <e p="DOTweenAnimation.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="DOTweenAnimationInspector.cs" t="Include" />
+            </e>
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="readme_DOTweenPro.txt" t="Include" />
+        </e>
+        <e p="EnhancedScroller v2" t="Include">
+          <e p="ChangeLog.txt" t="Include" />
+          <e p="Demos" t="Include">
+            <e p="01 Simple Demo" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+              <e p="SimpleDemo.cs" t="Include" />
+            </e>
+            <e p="02 Multiple Cell Types" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="CellViewFooter.cs" t="Include" />
+              <e p="CellViewHeader.cs" t="Include" />
+              <e p="CellViewRow.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+              <e p="MultipleCellTypesDemo.cs" t="Include" />
+            </e>
+            <e p="03 Selection Demo" t="Include">
+              <e p="InventoryCellView.cs" t="Include" />
+              <e p="InventoryData.cs" t="Include" />
+              <e p="SelectionDemo.cs" t="Include" />
+            </e>
+            <e p="04 Jump To Demo" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+            </e>
+            <e p="05 Remote Resources" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+              <e p="ImageList.cs" t="Include" />
+            </e>
+            <e p="06 Snapping" t="Include">
+              <e p="PlayWin.cs" t="Include" />
+              <e p="SlotCellView.cs" t="Include" />
+              <e p="SlotController.cs" t="Include" />
+              <e p="SlotData.cs" t="Include" />
+              <e p="SnappingDemo.cs" t="Include" />
+            </e>
+            <e p="07 Refreshing" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+            </e>
+            <e p="08 View Driven Cell Sizes" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+            </e>
+            <e p="09 Cell Events" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+            </e>
+            <e p="10 Grid Simulation" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+              <e p="RowCellView.cs" t="Include" />
+            </e>
+            <e p="10b Grid Selection" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+              <e p="RowCellView.cs" t="Include" />
+            </e>
+            <e p="11 Pull Down Refresh" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+            </e>
+            <e p="12 Nested Scrollers" t="Include">
+              <e p="Controller.cs" t="Include" />
+              <e p="DetailCellView.cs" t="Include" />
+              <e p="DetailData.cs" t="Include" />
+              <e p="MasterCellView.cs" t="Include" />
+              <e p="MasterData.cs" t="Include" />
+              <e p="ScrollRectEx.cs" t="Include" />
+            </e>
+            <e p="12b Nested Linked Scrollers (Alternate Grid)" t="Include">
+              <e p="Controller.cs" t="Include" />
+              <e p="DetailCellView.cs" t="Include" />
+              <e p="DetailData.cs" t="Include" />
+              <e p="MasterCellView.cs" t="Include" />
+              <e p="MasterData.cs" t="Include" />
+              <e p="ScrollRectEx.cs" t="Include" />
+            </e>
+            <e p="13 Pagination" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+              <e p="LoadingCellView.cs" t="Include" />
+            </e>
+            <e p="Main Menu" t="Include">
+              <e p="MainMenu.cs" t="Include" />
+              <e p="ReturnToMainMenu.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Plugins" t="Include">
+            <e p="EnhancedScroller.cs" t="Include" />
+            <e p="EnhancedScrollerCellView.cs" t="Include" />
+            <e p="IEnhancedScrollerDelegate.cs" t="Include" />
+            <e p="SmallList.cs" t="Include" />
+          </e>
+          <e p="readme.txt" t="Include" />
+          <e p="Tutorials" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="upgrading from 1.x to 2.x.txt" t="Include" />
+        </e>
+        <e p="Modern UI Pack" t="Include">
+          <e p="Editor" t="Include">
+            <e p="ContextMenu.cs" t="Include" />
+            <e p="ExtendedColorPicker.cs" t="Include" />
+            <e p="InitMUIP.cs" t="Include" />
+            <e p="UIManagerEditor.cs" t="Include" />
+          </e>
+          <e p="Read Me.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="Animated Icon" t="Include">
+              <e p="AnimatedIconHandler.cs" t="Include" />
+            </e>
+            <e p="Demo" t="Include">
+              <e p="DemoManager.cs" t="Include" />
+              <e p="DemoScrollForMore.cs" t="Include" />
+              <e p="DemoScrollManager.cs" t="Include" />
+              <e p="DemoTopButton.cs" t="Include" />
+              <e p="DemoTopListShadow.cs" t="Include" />
+              <e p="LaunchURL.cs" t="Include" />
+            </e>
+            <e p="Dropdown" t="Include">
+              <e p="CustomDropdown.cs" t="Include" />
+              <e p="DropdownMultiSelect.cs" t="Include" />
+            </e>
+            <e p="Fixes" t="Include">
+              <e p="LayoutGroupPositionFix.cs" t="Include" />
+              <e p="UIElementInFront.cs" t="Include" />
+            </e>
+            <e p="Horizontal Selector" t="Include">
+              <e p="HorizontalSelector.cs" t="Include" />
+            </e>
+            <e p="Input Field" t="Include">
+              <e p="CustomInputField.cs" t="Include" />
+            </e>
+            <e p="Modal Window" t="Include">
+              <e p="ModalWindowManager.cs" t="Include" />
+              <e p="ModalWindowTabs.cs" t="Include" />
+            </e>
+            <e p="Notification" t="Include">
+              <e p="NotificationManager.cs" t="Include" />
+            </e>
+            <e p="Others" t="Include">
+              <e p="UIGradient.cs" t="Include" />
+            </e>
+            <e p="Progress Bar" t="Include">
+              <e p="PBFilled.cs" t="Include" />
+              <e p="ProgressBar.cs" t="Include" />
+            </e>
+            <e p="Slider" t="Include">
+              <e p="RadialSlider.cs" t="Include" />
+              <e p="RangeMaxSlider.cs" t="Include" />
+              <e p="RangeMinSlider.cs" t="Include" />
+              <e p="RangeSlider.cs" t="Include" />
+              <e p="SliderManager.cs" t="Include" />
+            </e>
+            <e p="Switch" t="Include">
+              <e p="SwitchManager.cs" t="Include" />
+            </e>
+            <e p="Toggle" t="Include">
+              <e p="ToggleAnim.cs" t="Include" />
+            </e>
+            <e p="Tooltip" t="Include">
+              <e p="TooltipContent.cs" t="Include" />
+              <e p="TooltipManager.cs" t="Include" />
+            </e>
+            <e p="UI Manager" t="Include">
+              <e p="UIManager.cs" t="Include" />
+              <e p="UIManagerAnimatedIcon.cs" t="Include" />
+              <e p="UIManagerButton.cs" t="Include" />
+              <e p="UIManagerButtonEditor.cs" t="Include" />
+              <e p="UIManagerDropdown.cs" t="Include" />
+              <e p="UIManagerHSelector.cs" t="Include" />
+              <e p="UIManagerInputField.cs" t="Include" />
+              <e p="UIManagerModalWindow.cs" t="Include" />
+              <e p="UIManagerNotification.cs" t="Include" />
+              <e p="UIManagerProgressBar.cs" t="Include" />
+              <e p="UIManagerProgressBarLoop.cs" t="Include" />
+              <e p="UIManagerProgressBarLoopEditor.cs" t="Include" />
+              <e p="UIManagerScrollbar.cs" t="Include" />
+              <e p="UIManagerSlider.cs" t="Include" />
+              <e p="UIManagerSliderEditor.cs" t="Include" />
+              <e p="UIManagerSwitch.cs" t="Include" />
+              <e p="UIManagerToggle.cs" t="Include" />
+              <e p="UIManagerTooltip.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Prefab" t="Include">
+            <e p="HomeCell.cs" t="Include" />
+            <e p="HomePage.cs" t="Include" />
+            <e p="ToggleScroll" t="Include">
+              <e p="ToggleScroll.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scroll" t="Include">
+            <e p="ListData.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Script" t="Include">
+          <e p="Data" t="Include">
+            <e p="DataManager.cs" t="Include" />
+            <e p="Datas.cs" t="Include" />
+            <e p="UserInformation.cs" t="Include" />
+          </e>
+          <e p="Net" t="Include">
+            <e p="HttpManager.cs" t="Include" />
+            <e p="HttpRequest.cs" t="Include" />
+          </e>
+          <e p="Page" t="Include">
+            <e p="Dialog" t="Include">
+              <e p="SystemDialogPanel.cs" t="Include" />
+              <e p="WaitPanel.cs" t="Include" />
+              <e p="Window.cs" t="Include" />
+            </e>
+            <e p="Login" t="Include">
+              <e p="GameFacade.cs" t="Include" />
+              <e p="Login_Code.cs" t="Include" />
+              <e p="Login_Main.cs" t="Include" />
+              <e p="Login_Phone.cs" t="Include" />
+            </e>
+            <e p="Main" t="Include">
+              <e p="FollowerScroll.cs" t="Include" />
+              <e p="Moment" t="Include">
+                <e p="FollowerCell.cs" t="Include" />
+                <e p="FollowingCell.cs" t="Include" />
+                <e p="Page_Follower.cs" t="Include" />
+                <e p="Page_Following.cs" t="Include" />
+              </e>
+              <e p="Page_Main.cs" t="Include" />
+              <e p="Page_Setting.cs" t="Include" />
+              <e p="Page_User.cs" t="Include" />
+              <e p="Page_UserHide.cs" t="Include" />
+              <e p="Self" t="Include">
+                <e p="Page_Moments.cs" t="Include" />
+                <e p="Page_Self.cs" t="Include" />
+                <e p="Self_area.cs" t="Include" />
+                <e p="Self_birthday.cs" t="Include" />
+                <e p="Self_gender.cs" t="Include" />
+                <e p="Self_intro.cs" t="Include" />
+                <e p="Self_Name.cs" t="Include" />
+              </e>
+              <e p="UICircularScrollView.cs" t="Include" />
+            </e>
+            <e p="Pinch" t="Include">
+              <e p="Pinch_Clothes.cs" t="Include" />
+              <e p="Pinch_face.cs" t="Include" />
+            </e>
+          </e>
+          <e p="SDK" t="Include">
+            <e p="SDKManager.cs" t="Include" />
+            <e p="SdkPhoto.cs" t="Include" />
+          </e>
+          <e p="Tool" t="Include">
+            <e p="DateTool.cs" t="Include" />
+            <e p="ObjectPool.cs" t="Include" />
+            <e p="RegexManager.cs" t="Include" />
+            <e p="SignleTonMono.cs" t="Include" />
+            <e p="SingleTon.cs" t="Include" />
+          </e>
+          <e p="UIFrameWork" t="Include">
+            <e p="BasePanel.cs" t="Include" />
+            <e p="UIController.cs" t="Include" />
+            <e p="UIManager.cs" t="Include" />
+            <e p="UIPanelInfoList.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Test" t="Include">
+          <e p="AndroidGallery.cs" t="Include" />
+          <e p="Demo.cs" t="Include" />
+          <e p="GalleryManager.cs" t="Include" />
+          <e p="GallerySDKCallBack.cs" t="Include" />
+          <e p="IGallery.cs" t="Include" />
+          <e p="ItemCell.cs" t="Include" />
+          <e p="Photo.cs" t="Include" />
+          <e p="Scroll" t="Include">
+            <e p="CellData.cs" t="Include" />
+            <e p="TestCell.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="NeNe-UGUI.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

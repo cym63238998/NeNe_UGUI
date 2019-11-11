@@ -1,0 +1,27 @@
+{
+    "panelInfoList":
+    [
+        {"panelType":"Login_Main","path":"UIPanel/LoginMain"},
+        {"panelType":"Login_Phone","path":"UIPanel/Login_Phone"},
+		{"panelType":"Login_Code","path":"UIPanel/Login_Code"},
+		{"panelType":"SystemDialog","path":"UIPanel/SystemDialog"},
+		{"panelType":"WaitDialog","path":"UIPanel/WaitDialog"},
+		{"panelType":"Page_Main","path":"UIPanel/Page_Main"},
+		{"panelType":"Page_Setting","path":"UIPanel/Page_Setting"},
+		{"panelType":"Page_Moments","path":"UIPanel/Page_Moments"},
+		{"panelType":"Page_Self","path":"UIPanel/Page_Self"},
+		{"panelType":"Page_User","path":"UIPanel/Page_User"},
+		{"panelType":"Page_UserHide","path":"UIPanel/Page_UserHide"},
+		{"panelType":"Self_gender","path":"UIPanel/Self_gender"},
+		{"panelType":"Self_birthday","path":"UIPanel/Self_birthday"},
+		{"panelType":"Self_intro","path":"UIPanel/Self_intro"},
+		{"panelType":"Self_area","path":"UIPanel/Self_area"},
+		{"panelType":"Page_Follower","path":"UIPanel/Page_Follower"},
+		{"panelType":"Page_Following","path":"UIPanel/Page_Following"},
+		{"panelType":"Pinch_face","path":"UIPanel/Pinch_face"},
+		{"panelType":"Pinch_face_senior","path":"UIPanel/Pinch_face_senior"},
+		{"panelType":"Pinch_face_color","path":"UIPanel/Pinch_face_color"},
+		{"panelType":"Self_Name","path":"UIPanel/Self_Name"}
+
+    ]
+}
